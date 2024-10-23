@@ -16,4 +16,10 @@ Os Modelos estão divididos entre rand_for para random forest e reg_log para reg
 ### Modelo de Random Forest:
 [Teste simples](https://github.com/jonesamandajones/classificacao_fraude/blob/main/rand_for_simples.ipynb)  
 
-[Teste smote](https://github.com/jonesamandajones/classificacao_fraude/blob/main/rand_for_smote.ipynb)
+[Teste smote](https://github.com/jonesamandajones/classificacao_fraude/blob/main/rand_for_smote.ipynb)  
+
+  
+
+
+
+![ViewCount](https://komarev.com/ghpvc/?username=jonesamandajonese&repo=classificacao_fraude&color=blue)
